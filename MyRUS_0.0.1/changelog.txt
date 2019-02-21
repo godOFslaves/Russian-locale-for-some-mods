@@ -1,0 +1,7 @@
+v0.0.1 - 21.02.2019
+- First version
+Add mods :	-The Ruins Mod
+			-Afraid Of The Dark
+			-Big Bags
+			-Even Distribution
+			-Attach Notes
