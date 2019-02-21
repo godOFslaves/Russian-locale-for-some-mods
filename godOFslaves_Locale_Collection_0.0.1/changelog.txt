@@ -1,4 +1,4 @@
-v0.0.1 - 21.02.2019
+v0.0.1 - 20.02.2019
 - First version
 Add mods :	-The Ruins Mod
 			-Afraid Of The Dark
@@ -9,4 +9,5 @@ Add mods :	-The Ruins Mod
 			-Explosive Termites
 			-Honk
 			-LoaderRedux
+V0.0.2 - 21.02.2019
 			-Resource Spawner Overhaul	
