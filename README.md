@@ -1,48 +1,89 @@
-Skip to content
-￼
-Search or jump to…
-￼
-Pull requests
-Issues
-Marketplace
-Explore
-￼￼ Sign out
- Unwatch 1
-￼ Star 0  Fork 0 godOFslaves/Russian-locale-for-some-mods
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Branch: master Find file Copy path Russian-locale-for-some-mods/MyRUS_0.0.1/locale/ru/Bottleneck.cfg
-3e1a2dd  20 minutes ago
-￼ godOFslaves Update Bottleneck.cfg
-1 contributor
-RawBlameHistory  ￼  ￼
-18 lines (14 sloc)  1.31 KB
-[entity-name]
-bottleneck-stoplight=Индикаторы статуса производства
-
-[mod-setting-name]
-bottleneck-signals-per-tick=Сигнало в еденицу времени:
-bottleneck-show-running-as=Внешний вид когда работает:
-bottleneck-show-stopped-as=Внешний вид когда выключено:
-bottleneck-show-full-as=Внешний вид когда заполнено:
-
-[mode-setting-description]
-bottleneck-signals-per-tick=Сколько сигналов обрабатывается за еденицу времени. Чем выше это число, тем большее влияние на производительность.
-bottleneck-show-running-as=Как должны подствечиваться нормально функционнирующие машины.
-bottleneck-show-stopped-as=Как должны подствечиваться остановленные машины? Это машины в которые не поступает сырье.
-bottleneck-show-full-as=Как должны подствечиваться переполненые машины.Это машины которые заполнены готовым продуктом.
-
-[controls]
-bottleneck-hotkey=Вкл/выкл индикаторы статуса производства
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
+<p style="text-align: center;"># Russian-locale-for-some-mods<br />Russian locale for some Factorio mods</p>
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td>Status</td>
+<td>Mod Name</td>
+<td>Autor</td>
+<td>Link</td>
+</tr>
+<tr>
+<td>100%</td>
+<td>The Ruins Mod</td>
+<td>by Bilka</td>
+<td><a href="https://mods.factorio.com/mod/AbandonedRuins">Link</a></td>
+</tr>
+<tr>
+<td>100%</td>
+<td>Afraid Of The Dark</td>
+<td>by binbinhfr</td>
+<td><a href="https://mods.factorio.com/mod/AfraidOfTheDark">Link</a></td>
+</tr>
+<tr>
+<td>100%</td>
+<td>Big Bags</td>
+<td>by binbinhfr</td>
+<td><a href="https://mods.factorio.com/mod/BigBags">Link</a></td>
+</tr>
+<tr>
+<td>100%</td>
+<td>Even Distribution</td>
+<td>by 321freddy</td>
+<td><a href="https://mods.factorio.com/mod/even-distribution%20">Link</a></td>
+</tr>
+<tr>
+<td>015%</td>
+<td>Attach Notes</td>
+<td>by 321freddy</td>
+<td><a href="https://mods.factorio.com/mod/attach-notes%20">Link</a></td>
+</tr>
+<tr>
+<td>100%</td>
+<td>Crafting Speed Research</td>
+<td>by Klonan</td>
+<td>Link</td>
+</tr>
+<tr>
+<td>100%</td>
+<td>Explosive Termites</td>
+<td>by&nbsp;Rseding91</td>
+<td>Link</td>
+</tr>
+<tr>
+<td>100%</td>
+<td>Honk</td>
+<td>by&nbsp;GotLag</td>
+<td><a href="https://forums.factorio.com/viewtopic.php?f=92&amp;t=21623">Link</a></td>
+</tr>
+<tr>
+<td>099%</td>
+<td>LoaderRedux</td>
+<td>by Optera</td>
+<td><a href="https://forums.factorio.com/viewtopic.php?f=97&amp;t=48412">Link</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
