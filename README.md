@@ -38,7 +38,31 @@
 <td><a href="https://mods.factorio.com/mod/attach-notes%20">Link</a></td>
 </tr>
 <tr>
-<td>0000</td>
+<td>100%</td>
+<td>Crafting Speed Research</td>
+<td>by Klonan</td>
+<td>Link</td>
+</tr>
+<tr>
+<td>100%</td>
+<td>Explosive Termites</td>
+<td>by&nbsp;Rseding91</td>
+<td>Link</td>
+</tr>
+<tr>
+<td>100%</td>
+<td>Honk</td>
+<td>by&nbsp;GotLag</td>
+<td><a href="https://forums.factorio.com/viewtopic.php?f=92&amp;t=21623">Link</a></td>
+</tr>
+<tr>
+<td>099%</td>
+<td>LoaderRedux</td>
+<td>by Optera</td>
+<td><a href="https://forums.factorio.com/viewtopic.php?f=97&amp;t=48412">Link</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
