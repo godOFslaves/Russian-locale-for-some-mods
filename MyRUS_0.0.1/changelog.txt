@@ -5,3 +5,8 @@ Add mods :	-The Ruins Mod
 			-Big Bags
 			-Even Distribution
 			-Attach Notes
+			-Crafting Speed Research
+			-Explosive Termites
+			-Honk
+			-LoaderRedux
+			-Resource Spawner Overhaul	
