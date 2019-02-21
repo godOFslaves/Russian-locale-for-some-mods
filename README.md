@@ -1,17 +1,48 @@
-# Russian-locale-for-some-mods<br>
-Russian locale for some Factorio mods
+Skip to content
+￼
+Search or jump to…
+￼
+Pull requests
+Issues
+Marketplace
+Explore
+￼￼ Sign out
+ Unwatch 1
+￼ Star 0  Fork 0 godOFslaves/Russian-locale-for-some-mods
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+Branch: master Find file Copy path Russian-locale-for-some-mods/MyRUS_0.0.1/locale/ru/Bottleneck.cfg
+3e1a2dd  20 minutes ago
+￼ godOFslaves Update Bottleneck.cfg
+1 contributor
+RawBlameHistory  ￼  ￼
+18 lines (14 sloc)  1.31 KB
+[entity-name]
+bottleneck-stoplight=Индикаторы статуса производства
 
-| Status | Mod Name | Autor | Link |
-| 100% | The Ruins Mod | by Bilka | [Link](https://mods.factorio.com/mod/AbandonedRuins) |
-| 100% | Afraid Of The Dark | by binbinhfr | [Link](https://mods.factorio.com/mod/AfraidOfTheDark) |
-| 100% | Big Bags | by binbinhfr | [Link](https://mods.factorio.com/mod/BigBags) |
-| 100% | Even Distribution | by 321freddy | [Link](https://mods.factorio.com/mod/even-distribution%20) |
-| 015% | Attach Notes | by 321freddy | [Link](https://mods.factorio.com/mod/attach-notes%20) |
-| 100% | Crafting Speed Research | by Klonan | Link |
-| 100% | Explosive Termites | by Rseding91 | Link |
-| 100% | Honk | by GotLag | [Link](https://forums.factorio.com/viewtopic.php?f=92&t=21623) |
-| 099% | LoaderRedux | by Optera | [Link](https://forums.factorio.com/viewtopic.php?f=97&t=48412) |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+[mod-setting-name]
+bottleneck-signals-per-tick=Сигнало в еденицу времени:
+bottleneck-show-running-as=Внешний вид когда работает:
+bottleneck-show-stopped-as=Внешний вид когда выключено:
+bottleneck-show-full-as=Внешний вид когда заполнено:
+
+[mode-setting-description]
+bottleneck-signals-per-tick=Сколько сигналов обрабатывается за еденицу времени. Чем выше это число, тем большее влияние на производительность.
+bottleneck-show-running-as=Как должны подствечиваться нормально функционнирующие машины.
+bottleneck-show-stopped-as=Как должны подствечиваться остановленные машины? Это машины в которые не поступает сырье.
+bottleneck-show-full-as=Как должны подствечиваться переполненые машины.Это машины которые заполнены готовым продуктом.
+
+[controls]
+bottleneck-hotkey=Вкл/выкл индикаторы статуса производства
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
