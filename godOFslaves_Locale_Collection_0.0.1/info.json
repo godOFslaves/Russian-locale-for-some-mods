@@ -1,0 +1,10 @@
+{
+  "name": "godOFslaves_Locale_Collection",
+  "version": "0.0.1",
+  "title": "Russian locale for some mods",
+  "author": "godOFslaves",
+  "homepage": "https://github.com/godOFslaves/Russian-locale-for-some-mods",
+  "factorio_version": "0.16",
+  "description": "Russian locale for some mods. Full list in ReadME",
+  "dependencies": ["base >= 0.16.0"]
+}
