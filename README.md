@@ -62,10 +62,10 @@
 <td><a href="https://forums.factorio.com/viewtopic.php?f=97&amp;t=48412">Link</a></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>099%</td>
+<td>Resource Spawner Overhaul</td>
+<td>by&nbsp;Dark, orzelek</td>
+<td><a href="https://forums.factorio.com/viewforum.php?f=79">Link</a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
