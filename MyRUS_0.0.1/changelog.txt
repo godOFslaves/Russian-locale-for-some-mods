@@ -2,7 +2,7 @@
 Добавлены моды :
 			-Teleporters
 			-Long Reach
-
+			-Auto Deconstruct
 V0.0.3 - 23.02.2019
 Добавлены моды :
 			-Upgrade Builder and Planner 1.6
