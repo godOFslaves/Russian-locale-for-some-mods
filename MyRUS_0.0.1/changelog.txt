@@ -1,8 +1,13 @@
+﻿V0.0.3 - 23.02.2019
+Добавлены моды :
+			-Teleporters
+			-Long Reach
+
 V0.0.3 - 23.02.2019
 Добавлены моды :
 			-Upgrade Builder and Planner 1.6
 			-Upgrade Builder and Planner
-			(Какой использовать решайте сами)
+
 V0.0.2 - 21.02.2019
 Добавлены моды :
 			-Resource Spawner Overhaul
